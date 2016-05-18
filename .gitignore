@@ -1,0 +1,4 @@
+packs/*.yaml
+cache/*
+
+.env
