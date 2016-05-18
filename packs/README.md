@@ -1,0 +1,1 @@
+Pack YAML format and originals from https://github.com/lambtron/emojipacks
