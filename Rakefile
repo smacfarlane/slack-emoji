@@ -4,6 +4,7 @@ require 'yaml'
 require 'open-uri'
 require 'rest-client'
 
+
 Dotenv.load
 URL = "https://#{ENV['SLACK_TEAM']}.slack.com".freeze
 
